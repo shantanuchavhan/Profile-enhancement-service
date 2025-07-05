@@ -1,12 +1,12 @@
 # Profile-enhancement-service
 
-# 🧠 Profile Enrichment Service
+#  Profile Enrichment Service
 
 This backend service receives user information via an API, enriches it by scraping the full name from an external profile webpage, and returns the combined data as a JSON response.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Accepts `username`, `email`, and `profileUrl`
 - Scrapes the provided URL and extracts the `<h1>` content as the full name
@@ -16,7 +16,7 @@ This backend service receives user information via an API, enriches it by scrapi
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - Node.js
 - Express.js
