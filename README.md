@@ -1,5 +1,3 @@
-# Profile-enhancement-service
-
 #  Profile Enrichment Service
 
 This backend service receives user information via an API, enriches it by scraping the full name from an external profile webpage, and returns the combined data as a JSON response.
